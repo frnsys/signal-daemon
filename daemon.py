@@ -30,7 +30,7 @@ DEFAULT_FILE = 'memos.md'
 
 # parse out command directives, e.g.
 # for "TODO: hello world" this parses out "TODO"
-COMMAND_RE = re.compile(r'^([A-Z]+): ?')
+COMMAND_RE = re.compile(r'^([A-Za-z]+): ?')
 
 MEMO_TEMPLATE = '''# {dt}
 
