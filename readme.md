@@ -1,5 +1,7 @@
 # Signal Daemon
 
+![](shot.png)
+
 Note taking, memos, to-dos, journaling, etc with Signal, built on [`signal-cli`](https://github.com/AsamK/signal-cli).
 
 For awhile I've had trouble finding a good journaling/note-taking system for mobile, mostly because of issues of security/lack of encryption and synchronizing. And most note-taking apps have a lot of extra features that confuse the interface, and sometimes felt too formal; I wanted something that I could easily fire-off notes with, no pressure or anything. Which Signal and its texting interface are great for.
